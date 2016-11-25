@@ -1,0 +1,12 @@
+Generar una app
+
+$ ionic start
+$ ionic upload
+
+Generar plataforma ios / android
+
+$ ionic platform add ios
+
+$ ionic build ios
+
+$ ionic emulate ios

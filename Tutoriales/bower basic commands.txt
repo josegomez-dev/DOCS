@@ -1,0 +1,18 @@
+npm install bower
+
+bower install jquery
+
+bower list
+
+bower list --paths
+
+bower install backbone
+
+bower init (generated json)
+
+-delete bower folder
+
+bower install (instal json)
+
+bower install bootstrap -s (to save on json)
+
