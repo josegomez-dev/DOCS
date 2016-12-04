@@ -1,9 +1,0 @@
-Para la generación del instalador del proyecto pueden tomar como referencia:
-
-http://www.advancedinstaller.com/user-guide/tutorial-ai-ext-vs.html
-
-https://visualstudiogallery.msdn.microsoft.com/f1cc3f3e-c300-40a7-8797-c509fb8933b9
-
-Para ello deben instalar una extension para VS. "Microsoft Visual Studio 2015 Installer Projects"
-
-El string de conexión a la base de datos debe estar en un archivo de configuración.
